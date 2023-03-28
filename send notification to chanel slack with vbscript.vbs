@@ -1,5 +1,5 @@
 Function SendMessageToSlack(message)
-    'https://humanitargroup.slack.com/apps/A0F7XDUAZ-webhooks-de-entrada?tab=more_info
+    'https://slack.com/apps/A0F7XDUAZ-incoming-webhooks
     'o linkl acima é para vc adicionar o webhook ao seu canal do slack
     Dim slackURL  : slackURL = "url do webhook"
     Dim slackChannel : slackChannel = "nome do canal"
